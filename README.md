@@ -4,7 +4,7 @@ Login module for yii2
 
 # Features
 
-* Check password strength (thanks to (nenand)[http://github.com/nenand] for his widget)
+* Check password strength (thanks to nenand [http://github.com/nenand] for his widget)
 * Activation via email
 * Setting permissions for actions using regexp`s
 * Bootstrap style
